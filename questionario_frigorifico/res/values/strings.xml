@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FRIGO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_cadastro_empresa">CadastroEmpresa</string>
+    <string name="title_activity_cadastro">CadastroActivity</string>
+    <string name="escolher_data_str">Definir Data</string>
+    <string name="enter_text">A digitar</string>
+    <string name="doispontos">:</string>
+    <string name="pergunta1">1 - Temperatura da mão</string>
+    <string name="pergunta2">2 - Você sente frio durante o trabalho?</string>
+    <string name="pergunta3">3 - Qual parte do corpo que sente mais frio?</string>
+    <string name="pergunta4">4 - As roupas utilizadas são adequadas para gerar conforto térmico?</string>
+    <string name="pergunta5">5 - O ritmo de trabalho é:</string>
+    <string name="pergunta6">6 - Houve aumento do ritmo após a instituição das pausas?</string>
+    <string name="pergunta7">7 - Quantas pausas você realiza por dia e qual a duração de cada pausa?</string>
+    <string name="pergunta8">8 - Faz a pausa no próprio ambiente de trabalho?</string>
+    <string name="pergunta9">9 - Você trabalha horas extras de forma habitual?</string>
+    <string name="pergunta10">10 - Trabalha quantas horas ao dia?</string>
+    <string name="pergunta11">11 - Recebe adicional de insalubridade?</string>
+    <string name="pergunta11a">Descreva o setor:</string>
+    <string name="pergunta12">12 - Se você precisar ir ao banheiro a empresa autoriza a sua saída a qualquer tempo?</string>
+    <string name="pergunta13">13 - Tem assentos em número eficiente para todos os empregados?</string>
+    <string name="pergunta14">14 - Sente desconforto nas pernas por trabalhar em pé?</string>
+    <string name="pergunta15">15 - Ao final do dia de trabalho, como você se sente em relação ao cansaço?</string>
+    <string name="pergunta16">16 - Nos últimos 12 meses você sentiu algum desconforto ou dor causado pelo trabalho?</string>
+    <string name="pergunta17">17 - Em caso positivo, qual o tipo, intensidade e localização?</string>
+    <string name="pergunta18">18 - O desconforto aumenta durante o trabalho?</string>
+    <string name="pergunta19">19 - O desconforto diminui com o repouso?</string>
+    <string name="pergunta20">20 - Já apresentou algum atestado médico?</string>
+    <string name="pergunta21">21 - Qual o diagnóstico e quantos dias ficou afastado?</string>
+    <string name="pergunta22">22 - O médico da empresa reduziu o número de dias previsto no atestado?</string>
+    <string name="pergunta23">23 - Nos últimos 12 meses, você tomou remédio ou aplicou emplastos ou compressas para poder trabalhar?</string>
+    <string name="pergunta23a">Qual o remédio utilizado?</string>
+    <string name="pergunta23b">Quantas vezes?</string>
+    <string name="pergunta24">24 - Toma remédio para dor por:</string>
+    <string name="pergunta25">25 - Em caso de relatar queixas ou dor, já adotou algumas destas condutas nos últimos 12 meses?</string>
+    <string name="pergunta26">26 - Você já fez acompanhamento médico alguma vez por algum distúrbio ou lesão em membros superiores, coluna ou membros inferiores?</string>
+    <string name="pergunta27">27 - Quais os postos de trabalho ou atividades causam mais desconforto, fadiga ou dor? Motivo:</string>
+    <string name="pergunta28">28 - Atendimento do médico da empresa:</string>
+    <string name="pergunta29">29 - Você informou o médico da empresa que sente desconforto no trabalho?</string>
+    <string name="pergunta30">30 - Teve problemas respiratórios (gripe, sinusite, dor de garganta, pneumonia) nos últimos?</string>
+    <string name="pergunta31">31 - Você faz rodízio de tarefas durante o turno de trabalho?</string>
+    <string name="pergunta32">32 - Utiliza ferramentas?</string>
+    <string name="pergunta33">33 - O que você acha sobre as condições de trabalho na empresa?</string>
+    <string name="pergunta34">34 - Sugestões para melhoria das condições de trabalho:</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="asvezes">Às vezes</string>
+    <string name="macho">M</string>
+    <string name="femea">F</string>
+    <string name="lento">Lento</string>
+    <string name="medio">Médio</string>
+    <string name="rapido">Rápido</string>
+    <string name="muitorapido">Muito Rápido</string>
+    <string name="naosabe">Não Sabe</string>
+    <string name="usa_banheiro">Usa o banheiro nas pausas ergonômicas</string>
+    <string name="cansado">Cansado</string>
+    <string name="nenhum_cansaco">Nenhum cansaço</string>
+    <string name="pouco_cansado">Pouco cansado</string>
+    <string name="muito_cansado">Muito cansado</string>
+    <string name="exausto">Exausto</string>
+    <string name="r12meses">12 meses</string>
+    <string name="r30dias">30 dias</string>
+    <string name="r7dias">7 dias</string>
+    <string name="pescoco">Pescoço</string>
+    <string name="ombro">Ombro</string>
+    <string name="horas_extras">Com horas extras</string>
+    <string name="durante_rodizios">Durante os rodízios de tarefas</string>
+    <string name="durante_folga">À noite ou durante a folga</string>
+    <string name="finais_semana">Nos finais de semana</string>
+    <string name="q24a">Conta Própria</string>
+    <string name="q24b">Prescrito por médico da empresa</string>
+    <string name="q24c">Prescrio por médico do plano de saúde ou particular</string>
+    <string name="q25a">Evitar usar uma das mãos ou braços</string>
+    <string name="q25b">Trocar de mão para realizar alguma das atividades</string>
+    <string name="q25c">Substituir o uso da mão pelo braço, por exemplo</string>
+    <string name="q25d">Agitar as mãos porque estavam adormecidas ou formigando</string>
+    <string name="q25e">Ter dificuldades para escovar os dentes ou pentear o cabelo</string>
+    <string name="q25f">Sentir os braços cansados quando estão elevados</string>
+    <string name="q25g">Deixar cair copos, pratos, etc</string>
+    <string name="q25h">Ter dificuldades para lavar a roupa, carro, vidros, etc</string>
+    <string name="q25i">Ter dificuldade de carregar sacolas ou outras coisas</string>
+    <string name="q25j">Ter dificuldade para abrir portas</string>
+    <string name="q26a">Se sim, para qual distúrbio?</string>
+    <string name="q26b">O acompanhamento foi feito por médico da empresa, SUS ou plano de saúde?</string>
+    <string name="pergunta29_motivo">Qual o motivo?</string>
+    <string name="pergunta30_doenca">Especificar a doença:</string>
+    <string name="q31a">Quais postos (tarefas) você realiza o rodízio e depois de quanto tempo?</string>
+    <string name="q32a">Qual?</string>
+    <string name="q32b">A ferramenta é adequada?</string>
+    <string name="muito_bom">Muito bom</string>
+    <string name="bom">Bom</string>
+    <string name="ruim">Ruim</string>
+    <string name="muito_ruim">Muito ruim</string>
+    <string name="muito_boas">Muito boas</string>
+    <string name="boas">Boas</string>
+    <string name="razoaveis">Razoáveis</string>
+    <string name="ruins">Ruins</string>
+    <string name="pessimas">Péssimas</string>
+    <string name="pergunta1_celsius">°C</string>
+    
+    <string-array name="tipo_desconforto">
+        <item>Cansaço</item>
+        <item>Choques</item>
+        <item>Estalos</item>
+        <item>Dor</item>
+        <item>Dormência</item>
+        <item>Formigamento</item>
+        <item>Peso</item>
+        <item>Perda de Força</item>
+        <item>Limitação de movimentos</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="intensidade_desconforto">
+        <item>Leve</item>
+        <item>Moderada</item>
+        <item>Forte</item>
+    </string-array>
+
+</resources>
